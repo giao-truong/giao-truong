@@ -15,7 +15,7 @@ I have experience in quantitative and econometric analysis, competence in conduc
 ### 🛠 Technical Stack
 - **Languages:** R (Tidyverse, Time Series, Visualization), Stata (Automation, Diagnostics).
 - **Workflows:** Git/GitHub, Reproducible Research, Standardized Data Cleaning.
-- - **Data:** Handling large-scale longitudinal datasets and time-series.
+- **Data:** Handling large-scale longitudinal datasets and time-series.
 
 ### 📚 Selected Publications
 - *Unlocking e-government adoption: The role of perceived usefulness, ease of use, trust, and social media engagement in Vietnam* (Journal of Open Innovation: Technology, Market, and Complexity, 2024)
