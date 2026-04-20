@@ -17,13 +17,6 @@ I have experience in quantitative and econometric analysis, competence in conduc
 - **Workflows:** Git/GitHub, Reproducible Research, Standardized Data Cleaning.
 - - **Data:** Handling large-scale longitudinal datasets and time-series.
 
-### 📁 Featured Reproducible Sample
-**[Macroprudential Empirical Project]**
-*A full replication package designed according to World Bank RRR standards.*
-- 🚀 [Direct Link to Master Script](URL_HERE) - *Orchestrates cleaning and analysis.*
-- 📊 [Direct Link to Time-Series Analysis](URL_HERE) - *Stationarity testing and forecasting.*
-- 🧹 [Direct Link to Data Cleaning](URL_HERE) - *Handling 5,000+ observations with reproducible do-files/scripts.*
-
 ### 📚 Selected Publications
 - *Unlocking e-government adoption: The role of perceived usefulness, ease of use, trust, and social media engagement in Vietnam* (Journal of Open Innovation: Technology, Market, and Complexity, 2024)
 - *The interplay of government support, open innovation, and dynamic capabilities: Driving ambidexterity and performance in Vietnam* (Journal of Open Innovation: Technology, Market, and Complexity, 2025)
