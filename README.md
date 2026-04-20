@@ -1,6 +1,6 @@
 # Hi there, I'm Giao Truong 👋
 
-**Master’s Student in Public Policy Analysis**  
+**Master’s student in Public Policy Analysis**  
 *Specializing in quantitative and econometric analysis*
 
 I have experience in quantitative and econometric analysis, competence in conducting time series and panel data analysis, and familiarity with statistical packages, such as R and Stata. My work bridges the gap between complex econometric modeling and evidence-based policy design.
